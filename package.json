@@ -1,6 +1,6 @@
 {
   "name": "broccoli-plato",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Plato code analyzer for broccoli",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,13 @@
     "url": "https://github.com/crudo/broccoli-plato.git"
   },
   "keywords": [
-    "broccoli-plugin"
+    "broccoli-plugin",
+    "static-analysis",
+    "complexity",
+    "report",
+    "javascript",
+    "analysis",
+    "analyze"
   ],
   "author": "crudo",
   "license": "MIT",

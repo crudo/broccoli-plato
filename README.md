@@ -1,5 +1,5 @@
 # broccoli-plato
-Run [Plato](https://github.com/es-analysis/plato) in broccoli pipeline.
+Run [Plato](https://github.com/es-analysis/plato) in [Broccoli](https://github.com/broccolijs/broccoli) pipeline.
 Plato is JavaScript source code visualization, static analysis, and complexity tool.
 
 Output [example](http://es-analysis.github.io/plato/examples/jquery/).
