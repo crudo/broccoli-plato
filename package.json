@@ -1,0 +1,22 @@
+{
+  "name": "broccoli-plato",
+  "version": "0.0.1",
+  "description": "Plato code analyzer for broccoli",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crudo/broccoli-plato.git"
+  },
+  "keywords": [
+    "broccoli-plugin"
+  ],
+  "author": "crudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crudo/broccoli-plato/issues"
+  },
+  "homepage": "https://github.com/crudo/broccoli-plato"
+}
