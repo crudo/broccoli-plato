@@ -1,8 +1,10 @@
-# broccoli-plato
+# broccoli-plato [![Build Status](https://travis-ci.org/crudo/broccoli-plato.svg?branch=master)](https://travis-ci.org/crudo/broccoli-plato)
+
 Run [Plato](https://github.com/es-analysis/plato) in [Broccoli](https://github.com/broccolijs/broccoli) pipeline.
 Plato is JavaScript source code visualization, static analysis, and complexity tool.
 
 Output [example](http://es-analysis.github.io/plato/examples/jquery/).
+
 
 ## Installation
 
