@@ -31,7 +31,7 @@
     "rsvp": "^3.0.16"
   },
   "devDependencies": {
-    "broccoli": "^0.16.9",
+    "broccoli": "^1.0.0",
     "expect.js": "^0.3.1",
     "mocha": "^2.1.0",
     "rimraf": "^2.2.8"
