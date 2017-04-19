@@ -27,7 +27,7 @@
   "homepage": "https://github.com/crudo/broccoli-plato",
   "dependencies": {
     "broccoli-caching-writer": "^0.5.4",
-    "plato": "^1.3.0",
+    "plato": "^1.7.0",
     "rsvp": "^3.0.16"
   },
   "devDependencies": {
