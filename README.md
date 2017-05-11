@@ -1,5 +1,7 @@
 # broccoli-plato [![Build Status](https://travis-ci.org/crudo/broccoli-plato.svg?branch=master)](https://travis-ci.org/crudo/broccoli-plato)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/crudo/broccoli-plato.svg)](https://greenkeeper.io/)
+
 Run [Plato](https://github.com/es-analysis/plato) in [Broccoli](https://github.com/broccolijs/broccoli) pipeline.
 Plato is JavaScript source code visualization, static analysis, and complexity tool.
 
